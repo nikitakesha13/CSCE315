@@ -1,7 +1,5 @@
 import React from 'react';
 import { Routes, Route } from "react-router-dom";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "bootstrap/dist/js/bootstrap.bundle.min";
 import Navbar from "./components/navbar.component";
 import Home from "./components/home.component";
 import CreateUser from "./components/create-user.component";
